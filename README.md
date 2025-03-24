@@ -1,60 +1,47 @@
-# 👋 Bonjour ! Je suis Kybaloo Florentin TCHANGAI
+# 👋 Hello! I'm Kybaloo Florentin TCHANGAI
 
-## 🚀 À propos de moi  
-Je suis **Développeur Web & Analyste de Données**, passionné par la **création de solutions digitales** et **l’analyse de données**. Actuellement, j’automatise les processus d’évaluation des risques chez **Ecobank Transnational Incorporated**. Mon objectif est de développer des applications **intuitives** et **efficaces**, tout en exploitant la puissance des données pour orienter les décisions stratégiques.
+## 🚀 About Me
+**Web Developer & Data Analyst** passionate about creating digital solutions and data analysis. Currently automating risk assessment processes at **Ecobank Transnational Incorporated**. I focus on developing intuitive and efficient applications while leveraging data to drive strategic decisions.
 
-### 🎯 Ce que je fais au quotidien
-- Développement **full-stack** (React, Next.js, ASP.Net Core, Node.js, Laravel…)
-- Analyse de données et automatisation de rapports
-- Conception d’interfaces web intuitives et performantes
-- Collaboration avec des équipes multidisciplinaires sur des projets d’envergure
+## 🛠️ Skills
+**Languages & Frameworks:**  
 
----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg??style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg??style=plastic&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0??style=plastic&logo=python&logoColor=ffdd54)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg??style=plastic&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F??style=plastic&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg??style=plastic&logo=react&logoColor=%2361DAFB)
+[![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 
-## 🛠️ Compétences  
-**Langages & Frameworks :**  
-`JavaScript` `Python` `PHP` `C#`  
-`React.js` `Next.js` `Laravel` `ASP.Net Core` `Node.js` `Flutter`
+## 💻 Tech Stack
+- **Frontend:** `React` `Next.js`
+- **Backend:** `Node.js` `Laravel` `ASP.Net Core`
+- **Databases:** `MySQL` `MongoDB` `MS SQL Server` `Firebase`
+- **Tools:** `Git` `Azure DevOps` `Trello` `Scrum` `Agile`
 
-**Bases de données :**  
-`MySQL` `MongoDB` `MS SQL Server` `Firebase`
 
-**Outils & Méthodologies :**  
-`Git` `Azure DevOps` `Trello` `Scrum` `Agile`
+## 📈 GitHub Stats
+![Kybaloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kybaloo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kybaloo&layout=compact&theme=radical)
 
----
+[![Kybaloo's github trophy](https://github-profile-trophy.vercel.app/?username=kybaloo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📂 Projets en vedette  
-| Projet        | Description                                           | Technologies utilisées               |
-| ------------- | ----------------------------------------------------- | ------------------------------------ |
-| **Va-Hire**   | Plateforme de recrutement IT avec gestion de projets  | React, Express, Node.js, MongoDB     |
-| **SmartLoan** | Automatisation des demandes de prêt (Ecobank)         | ASP.Net Core MVC, SQL Server         |
-| **COD’Arena** | Application de gestion d’incubateurs                  | Laravel, MySQL                       |
-| **SEM-Consult** | Site de location de véhicules                       | WordPress, WooCommerce               |
 
----
+## 👨‍💻 Contribution Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybaloo&theme=radical)
 
-## 🎓 Formation & Certifications  
-- **Master en Architecture de Logiciels** - ESGIS *(en cours)*  
-- **Licence en Architecture de Logiciels** - ESGIS  
-- **Certifications Agile & Scrum** - PM-Coaching  
-- **Data Science** *(En cours)* - DataCamp  
 
----
+## ✉️ Need Some ?
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=plastic&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/Kybaloo?frm=Kybaloo&sb=t)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=plastic&logo=Upwork&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tchangaiflorentin6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kybaloo)
 
-## 📈 Statistiques GitHub  
-![Statistiques GitHub de Kybaloo](https://github-readme-stats.vercel.app/api?username=kybaloo&show_icons=true&theme=radical)  
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=kybaloo&layout=compact&theme=radical)
+*"Code with passion, analyze with precision."*
 
----
-
-## ✉️ Me contacter  
-**Email :** [tchangai.kybaloo@gmail.com](mailto:tchangai.kybaloo@gmail.com)  
-**LinkedIn :** [Kybaloo Florentin TCHANGAI](https://www.linkedin.com/in/kybaloo-florentin-tchangai)
-
----
-
-*“Codez avec passion, analysez avec précision.”*
+![Profile Views](https://komarev.com/ghpvc/?username=kybaloo&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/contributors-anon/kybaloo/kybaloo?style=for-the-badge&color=blue&label=Committer%20Rank)
 
 <!---
 kybaloo/kybaloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
