@@ -29,7 +29,7 @@
 
 
 ## 👨‍💻 Contribution Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kybaloo&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kybaloo&theme=dark)](https://git.io/streak-stats)
 
 
 ## ✉️ Need Some ?
