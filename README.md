@@ -42,6 +42,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kybaloo&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 ![](https://img.shields.io/github/contributors-anon/kybaloo/kybaloo?style=for-the-badge&color=blue&label=Committer%20Rank)
+[![committers.top badge](https://user-badge.committers.top/togo/kybaloo.svg)](https://user-badge.committers.top/togo/kybaloo)
 
 <!---
 kybaloo/kybaloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
