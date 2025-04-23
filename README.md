@@ -25,8 +25,6 @@
 ![Kybaloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kybaloo&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kybaloo&layout=compact&theme=radical)
 
-[![Kybaloo's github trophy](https://github-profile-trophy.vercel.app/?username=kybaloo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 👨‍💻 Contribution Activity
 [![GitHub Streak](https://github-readme-streak-stats-puce-five.vercel.app?user=kybaloo&theme=github-dark-dimmed)](https://git.io/streak-stats)
