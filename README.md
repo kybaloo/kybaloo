@@ -22,8 +22,12 @@
 
 
 ## 📈 GitHub Stats
-![Kybaloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kybaloo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kybaloo&layout=compact&theme=radical)
+
+| Stats | Langages |
+|-------|----------|
+| ![Kybaloo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kybaloo&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kybaloo&layout=compact&theme=radical) |
+
+
 
 
 ## 👨‍💻 Contribution Activity
