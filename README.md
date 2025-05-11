@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Kybaloo Florentin TCHANGAI
+# 👋 Hello! I'm Kybaloo Florentin TCHANGAI.
 
 ## 🚀 About Me
 **Web Developer & Data Analyst** passionate about creating digital solutions and data analysis. Currently automating risk assessment processes at **Ecobank Transnational Incorporated**. I focus on developing intuitive and efficient applications while leveraging data to drive strategic decisions.
