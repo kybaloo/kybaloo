@@ -41,7 +41,7 @@
 
 
 ## 👨‍💻 Contribution Activity
-[![GitHub Streak](https://github-readme-streak-stats-puce-five.vercel.app?user=kybaloo&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-puce-five.vercel.app?user=kybaloo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ## ✉️ Need Some ?
